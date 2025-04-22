@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "BGeToLibNFUmK1BP6ivQKim43CXgH3xUv8T1nVKY9Goq",  // La dirección del mint de tu token
+      "symbol": "speedrec",  // El símbolo de tu token
+      "name": "World Record Fastest $100M",  // El nombre de tu token
+      "decimals": 9,  // Usualmente 9 para Solana
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreie24yn6kinqgee5zpbr3shqim5tpqdionlrw2qhgh2kfxgznhcqd4",  // El logo de tu token (debe estar en IPFS o en un servidor accesible)
+      "tags": ["memecoin", "new"]  // Puedes agregar etiquetas como "memecoin", "new", etc.
+    }
+  ]
+}
